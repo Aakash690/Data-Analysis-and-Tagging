@@ -1,0 +1,6 @@
+Primary_Key,Order_Date,Product_Category,Complaint,Cause,Correction,Root_Cause,Symptom_Condition,Symptom_Component,Fix_Condition,Fix_Component
+SOQ003836-1,3/8/2023,SPRAYS,GAS P-CLIP and air ducting still not tightened at factory,"ALL 2 CLIPS, NUTS, AND BOLTS",Not Mentioned,Not Mentioned,Not Mentioned,Gas P-Clip,Not Mentioned,Not Mentioned
+SOQ003837-1,3/8/2023,SPRAYS,Fuel door not stay open,HYDRAULIC OIL RUNNING OUT,Well Lubricated,Not Mentioned,Open,Fuel Door,Not Mentioned,Not Mentioned
+SOQ003838-1,3/8/2023,SPRAYS,Fuel door crushed,COMPRESSOR PRESSURE LINE,BATTLE PRODUCT ASSOCIATED,Not Mentioned,Crushed,Fuel Door,Not Mentioned,Not Mentioned
+SOQ003870-1,3/8/2023,SPRAYS,UNLOCKS were not installed,UNLOCKS WERE NOT INSTALLED,PAN AND TESTED,Not Installed,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned
+SOQ003890-1,3/8/2023,SPRAYS,WITH HAMMER AND SOCKET,COUPLER was leaking,MISSING BRACKETS AND BOLTS,Leaking,Not Mentioned,Not Mentioned,Not Mentioned,Brackets
